@@ -1,6 +1,19 @@
 The final model has been successfully deployed and is hosted on [Render](https://credit-card-approval-prediction-oycw.onrender.com).
 
 
+## 🛠 Technology Stack
+The project leverages the following core technologies for data processing and model deployment:
+* **Languages:** Python
+* **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost
+* **Web Framework:** Flask
+* **Deployment:** Render
+
+---
+
+## 📐 Entity Relationship (ER) Diagram
+The ER diagram below illustrates the relationships between the various entities in our credit card approval dataset.
+![ER Diagram](../figures/er_diagram.png)
+
 ## Workflow
 
 The Credit Card Approval Prediction project follows a structured machine learning workflow to predict whether a credit card application should be approved or rejected.
