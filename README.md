@@ -21,7 +21,7 @@ The Credit Card Approval Prediction project follows a structured machine learnin
 ### Epic 1: Data Collection
 **Story 1:** Download the Credit Card Approval dataset and prepare it for analysis and machine learning model development.
 
-➡️ **Documentation:** [Epic 1 - Data Collection](epics/epic1.md)
+➡️ **Documentation:** [Epic 1 - Data Collection](data/epic1.md)
 
 ---
 
