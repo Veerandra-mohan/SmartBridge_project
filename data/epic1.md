@@ -1,3 +1,6 @@
+⬅️ **Back to:** [README](../README.md)
+
+
 ## 📖 Description
 
 Credit Card Approval Prediction is an end-to-end Machine Learning project that predicts whether a credit card application is likely to be approved based on an applicant's demographic, financial, and credit-related information.
@@ -18,4 +21,8 @@ The project uses the **Credit Card Approval Prediction** dataset from Kaggle. Th
 
 ---
 
-⬅️ **Back to:** [README](../README.md)
+
+### Dataset Overview
+![The Dataset](https://github.com/Veerandra-mohan/SmartBridge_project/blob/main/figures/the_dataset.jpeg?raw=true)
+
+
