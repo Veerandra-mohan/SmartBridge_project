@@ -12,7 +12,7 @@ The project leverages the following core technologies for data processing and mo
 
 ## 📐 Entity Relationship (ER) Diagram
 The ER diagram below illustrates the relationships between the various entities in our credit card approval dataset.
-![ER Diagram](../figures/er_diagram.png)
+![ER Diagram](ERD.jpeg)
 
 ## Workflow
 
