@@ -18,6 +18,11 @@ We identify and address missing data points (null values) to prevent bias and en
 
 ---
 
+
+![Study Outline](https://github.com/Veerandra-mohan/SmartBridge_project/blob/main/figures/outlinear.jpeg?raw=true)
+
+---
+
 ## ⚙️ Feature Engineering
 We create new, meaningful features from the existing raw data to help the models better capture underlying patterns.
 ![Feature Engineering](../figures/Feature%20Engineering.png)
