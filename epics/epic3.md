@@ -33,3 +33,5 @@ We create new, meaningful features from the existing raw data to help the models
 Since machine learning models require numerical input, we transform categorical variables into a format suitable for algorithmic processing.
 ![Encoding Categorical Variables](../figures/Encode%20Categorical%20Variables.png)
 
+### Data Summary
+![Data Summary](https://github.com/Veerandra-mohan/SmartBridge_project/blob/main/figures/data_summary.jpeg?raw=true)
