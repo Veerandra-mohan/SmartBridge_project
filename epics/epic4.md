@@ -42,10 +42,22 @@ The performance of all three machine learning models is compared using evaluatio
 ![Model Comparison Chart](../figures/model_comparsion.png)
 
 
+![Model Comparison](https://github.com/Veerandra-mohan/SmartBridge_project/blob/main/figures/comparasion.png?raw=true)
+
 ---
 
 ## ✅ Conclusion
+
+![Best Model](https://github.com/Veerandra-mohan/SmartBridge_project/blob/main/figures/best%20model.png?raw=true)
+
 Based on the comparative analysis, the **Decision Tree** model was selected for deployment.
 ![Final Performance Summary](../figures/prediction.png)
 
-The final model is hosted on [Render](https://credit-card-approval-prediction-oycw.onrender.com).
+---
+Hence Saving the Model
+
+![Saved Model](https://github.com/Veerandra-mohan/SmartBridge_project/blob/main/figures/model%20saved.png?raw=true)
+
+
+
+
