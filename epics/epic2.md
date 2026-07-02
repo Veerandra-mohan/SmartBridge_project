@@ -1,4 +1,4 @@
-<img width="1394" height="538" alt="image" src="https://github.com/user-attachments/assets/76bb8df6-4fe2-4e68-b030-87c5c5a71f4a" />## 📦 Importing Libraries & Reading the Dataset
+## 📦 Importing Libraries & Reading the Dataset
 
 The project begins by importing the required Python libraries for data manipulation, visualization, and machine learning. The dataset is then loaded into the environment, where its structure, dimensions, and key characteristics are examined.
 
@@ -9,6 +9,7 @@ The project begins by importing the required Python libraries for data manipulat
 ## 📊 Univariate Analysis
 
 Univariate analysis is performed to examine the distribution of individual features within the dataset. Statistical summaries and visualizations such as histograms, bar charts, and box plots are used to understand feature distributions and identify patterns in individual variables.
+<img width="1394" height="538" alt="image" src="https://github.com/user-attachments/assets/76bb8df6-4fe2-4e68-b030-87c5c5a71f4a" />
 
 ## 📈 Multivariate & Descriptive Analysis
 
